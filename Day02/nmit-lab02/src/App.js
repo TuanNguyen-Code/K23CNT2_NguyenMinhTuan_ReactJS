@@ -1,4 +1,3 @@
-import React from "react";
 import Nmitinfo from "./nmit-info";
 
 function App() {
