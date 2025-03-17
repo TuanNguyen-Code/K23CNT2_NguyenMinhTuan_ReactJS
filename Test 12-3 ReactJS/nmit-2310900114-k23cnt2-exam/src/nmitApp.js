@@ -50,8 +50,7 @@ export default class nmitApp extends Component {
           <div className="card">
             <NmitMemberList
             rendernmitMembers={this.state.nmitMembers}
-            onnmitHandleDe
-            lete={this.nmitHandleDelete}
+            onnmitHandleDelete={this.nmitHandleDelete}
             />
             <div className="col-lg-5">
               {/* Form thêm mới tài khoản */}
