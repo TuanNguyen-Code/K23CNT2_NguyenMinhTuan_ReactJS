@@ -1,0 +1,65 @@
+{
+    "nmit_users": [
+        {
+          "nmit_name": "Nguyen Minh Tuan",
+          "nmit_email": "nmit_email 1",
+          "nmit_active": true,
+          "id": "2310900114"
+        },
+        {
+          "nmit_name": "nmit_name 2",
+          "nmit_email": "nmit_email 2",
+          "nmit_active": false,
+          "id": "2"
+        },
+        {
+          "nmit_name": "nmit_name 3",
+          "nmit_email": "nmit_email 3",
+          "nmit_active": false,
+          "id": "3"
+        },
+        {
+          "nmit_name": "nmit_name 4",
+          "nmit_email": "nmit_email 4",
+          "nmit_active": false,
+          "id": "4"
+        },
+        {
+          "nmit_name": "nmit_name 5",
+          "nmit_email": "nmit_email 5",
+          "nmit_active": false,
+          "id": "5"
+        },
+        {
+          "nmit_name": "nmit_name 6",
+          "nmit_email": "nmit_email 6",
+          "nmit_active": false,
+          "id": "6"
+        },
+        {
+          "nmit_name": "nmit_name 7",
+          "nmit_email": "nmit_email 7",
+          "nmit_active": false,
+          "id": "7"
+        },
+        {
+          "nmit_name": "nmit_name 8",
+          "nmit_email": "nmit_email 8",
+          "nmit_active": false,
+          "id": "8"
+        },
+        {
+          "nmit_name": "nmit_name 9",
+          "nmit_email": "nmit_email 9",
+          "nmit_active": false,
+          "id": "9"
+        },
+        {
+          "nmit_name": "nmit_name 10",
+          "nmit_email": "nmit_email 10",
+          "nmit_active": false,
+          "id": "10"
+        }
+      ]
+      
+}
